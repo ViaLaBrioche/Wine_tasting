@@ -56,5 +56,22 @@ header {
 
 }
 
+.header__linebottom {
+    position: absolute;
+    top: 550px;
+    left: 600px;
+}
+
+.header__btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    margin: 10px;
+    appearance: none;
+    background-color: #998431;
+    color: #ffff;
+    padding: 15px 30px 15px 30px;
+    border: none;
+}
 
 
