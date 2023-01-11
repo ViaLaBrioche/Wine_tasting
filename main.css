@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+}
+
+header {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+
+}
+
+.header__container {
+    background-size: cover;
+    padding-bottom: 600px; 
+    background-image: url(../wine-tasting/image/bgc.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.header__contacts {
+    display: flex;
+    justify-content: space-around;
+    color: #ffff;
+    padding-top: 30px;
+}
+
+.header__tel {
+    color: #ffff;
+    text-decoration: none;
+}
+
+.header__menu {
+    display: flex;
+    justify-content: center;
+    border: 1px groove #ffff;
+    border-left: none;
+    border-right: none;
+    margin: 20px 310px auto 310px;
+
+}
+.header__menu__link {
+    color: #ffff;
+    text-decoration: none;
+    margin: 15px 5px 15px 5px;
+}
+
+.header__menu_border {
+    border-right: 1px groove #ffff;
+    padding: 10px 90px 10px 70px;
+    margin-left: 10px;
+    
+}
+
+.header__menu_noborder {
+    padding: 10px 70px 10px 90px;
+
+}
+
+
+
