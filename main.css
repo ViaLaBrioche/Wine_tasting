@@ -6,20 +6,16 @@ header {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
     font-size: 12px;
-    background-size: cover;
-    padding-bottom: 600px; 
-    background-image: url('image/bgc.png') no-repeat;
-    background-position: center;
 
 }
 
-/* .header__container {
+.header__container {
     background-size: cover;
     padding-bottom: 600px; 
-    background-image: url('image/bgc.png') no-repeat;
+    background-image: url('image/bgc.png');
     background-position: center;
 
-} */
+}
 
 .header__contacts {
     display: flex;
