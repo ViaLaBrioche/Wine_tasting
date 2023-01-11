@@ -12,9 +12,8 @@ header {
 .header__container {
     background-size: cover;
     padding-bottom: 600px; 
-    background-image: url(../wine-tasting/image/bgc.png);
+    background-image: url('image/bgc.png') no-repeat;
     background-position: center;
-    background-repeat: no-repeat;
 
 }
 
